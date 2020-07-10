@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Hecatoncheir's github stats](https://github-readme-stats.vercel.app/api?username=Hecatoncheir&hide_border=true&line_height=24&hide=[%22contribs%22])](https://github.com/Hecatoncheir/github-readme-stats)
+
 
 <!--
 **Hecatoncheir/Hecatoncheir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
