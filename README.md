@@ -1,6 +1,10 @@
 
 
-![preview](https://raw.githubusercontent.com/Hecatoncheir/Hecatoncheir/master/preview.jpg)
+
+
+<p align="center">
+  <img width="800" height="600" src="https://raw.githubusercontent.com/Hecatoncheir/Hecatoncheir/master/preview.jpg">
+</p>
 
 [![Hecatoncheir's github stats](https://github-readme-stats.vercel.app/api?username=Hecatoncheir&hide_border=true&line_height=24&hide=[%22contribs%22])](https://github.com/Hecatoncheir/)
 
