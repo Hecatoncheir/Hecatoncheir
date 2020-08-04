@@ -1,7 +1,7 @@
 
 
 
-
+<!--
 <p align="center">
   <img width="800" height="600" src="https://raw.githubusercontent.com/Hecatoncheir/Hecatoncheir/master/preview.jpg">
 </p>
