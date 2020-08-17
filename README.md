@@ -3,9 +3,11 @@
   <img src="https://raw.githubusercontent.com/Hecatoncheir/Hecatoncheir/master/preview.jpg">
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hecatoncheir&layout=compact)](https://github.com/Hecatoncheir/)
+
 [![Hecatoncheir's github stats](https://github-readme-stats.vercel.app/api?username=Hecatoncheir&hide_border=true&line_height=24&hide=[%22contribs%22])](https://github.com/Hecatoncheir/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hecatoncheir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
