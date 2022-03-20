@@ -10,6 +10,9 @@
 
 [![Hecatoncheir's github stats](https://github-readme-stats.vercel.app/api?username=Hecatoncheir&hide_border=true&line_height=24&hide=[%22contribs%22])](https://github.com/Hecatoncheir/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hecatoncheir&layout=compact)](https://github.com/Hecatoncheir/)
 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hecatoncheir&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <!--
 [![Hecatoncheir's github stats](https://github.com/Hecatoncheir/_Hecatoncheir/blob/master/preview.jpg?raw=true](https://github.com/Hecatoncheir/)
 
