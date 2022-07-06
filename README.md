@@ -8,9 +8,11 @@
 
 
 
-[![Hecatoncheir's github stats](https://github-readme-stats.vercel.app/api?username=Hecatoncheir&hide_border=true&line_height=24&hide=[%22contribs%22])](https://github.com/Hecatoncheir/) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hecatoncheir&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Hecatoncheir's github stats](https://github-readme-stats.vercel.app/api?username=Hecatoncheir&hide_border=true&line_height=24&hide=[%22contribs%22])](https://github.com/Hecatoncheir/) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hecatoncheir&hide_border=true&ring=D5E78B&fire=BECFE7&currStreakNum=BECFE7&currStreakLabel=BEDD3A&sideLabels=BECFE7&sideNums=E3E72F&stroke=E4E8F1&dates=DADBE7)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hecatoncheir&layout=compact)](https://github.com/Hecatoncheir/)
+
+
 
 [codersrank.io](https://profile.codersrank.io/user/hecatoncheir)
 
