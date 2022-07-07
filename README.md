@@ -14,7 +14,7 @@
 -->
 
 
-<img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com/?user=Hecatoncheir&hide_border=true&ring=D5E78B&fire=BECFE7&currStreakNum=BECFE7&currStreakLabel=BEDD3A&sideLabels=BECFE7&sideNums=E3E72F&stroke=E4E8F1&dates=DADBE7"  width="380" /> <img alt="Hecatoncheir's github stats" src="https://github-readme-stats.vercel.app/api?username=Hecatoncheir&hide_border=true&line_height=24&hide=[%22contribs%22]" width="380"/>
+<img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com/?user=Hecatoncheir&hide_border=true&ring=D5E78B&fire=BECFE7&currStreakNum=BECFE7&currStreakLabel=BEDD3A&sideLabels=BECFE7&sideNums=E3E72F&stroke=E4E8F1&dates=DADBE7"  width="390" /> <img alt="Hecatoncheir's github stats" src="https://github-readme-stats.vercel.app/api?username=Hecatoncheir&hide_border=true&line_height=24&hide=[%22contribs%22]" width="390"/>
 
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hecatoncheir&layout=compact"/> 
 
