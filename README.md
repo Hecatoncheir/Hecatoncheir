@@ -1,9 +1,12 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hecatoncheir/Hecatoncheir/master/preview.jpg">
+  <a href="https://hecatoncheir.github.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Hecatoncheir/Hecatoncheir/master/preview.jpg" alt="Preview">
+  </a>
 </p>
+<br>
 
-https://hecatoncheir.github.io/
+https://hecatoncheir.github.io
 
 
 <!--
